@@ -6,7 +6,7 @@ public class Student {
 
         String url = "jdbc:mysql://localhost:3306/student_management";
         String user = "root";
-        String password = "2005";
+        String password = "maddy";
 
         Scanner sc = new Scanner(System.in);
 
