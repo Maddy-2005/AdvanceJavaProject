@@ -6,7 +6,7 @@ public class BankManagementSystem {
 
     static final String URL = "jdbc:mysql://localhost:3306/bank_management";
     static final String USER = "root";
-    static final String PASSWORD = "2005";
+    static final String PASSWORD = "maddy";
 
     static Connection con;
     static Scanner sc = new Scanner(System.in);
